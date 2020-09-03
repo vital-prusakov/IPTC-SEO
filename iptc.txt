@@ -1,0 +1,15 @@
+-IPTC:Headline=Описание изображения из 3-6 слов
+-IPTC:ObjectName=Название изображения
+-IPTC:Keywords=ключ1, ключ2, ключ3, ключ4
+-IPTC:Caption-Abstract=Описание изображения из 3-6 слов
+-IPTC:Source=http://site.by/
+-IPTC:Credit=http://site.by/
+-XMP:Credit=http://site.by/
+-IPTC:CopyrightNotice=©2020 Site.by
+-IPTC:By-line=Site.by
+-EXIF:Artist=Site.by
+-XMP:Creator=Site.by
+-XMP:WebStatement=https://creativecommons.org/licenses/by-nc/4.0/
+-XMP-iptcCore:CreatorWorkURL=http://site.by/
+-XMP:LicensorName=Site.by
+-XMP:LicensorURL=http://site.by/contacts/
