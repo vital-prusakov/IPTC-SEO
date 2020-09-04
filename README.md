@@ -4,4 +4,9 @@
 
 ExifTool можно скачать тут https://exiftool.org/
 
-Для того чтобы все работало раположить конфиг и .but файл в раздел с установленной программой.
+Для того чтобы все работало раположить конфиг iptc.txt и .but файлы в раздел с установленной программой.
+
+Подробнее почитать про разметку картинок с лицензией и авторскими правами для поиска Google можно посмотреть по ссылкам ниже:
+
+1. https://support.google.com/webmasters/answer/9150868?hl=en
+2. https://developers.google.com/search/docs/data-types/image-license-metadata
